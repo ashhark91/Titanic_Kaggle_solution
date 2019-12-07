@@ -1,1 +1,1 @@
-# Titanic_Kaggle_solution
+# Titanic_Kaggle_Datascience_solution
